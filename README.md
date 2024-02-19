@@ -10,9 +10,9 @@ Design points:
 
 FACTORY DESIGN PATTERN MODELS:
 
-1- Abstract Factory Model - Abstract Interface to define set of methods for creating objects
-2- Classroom Eager Singleton Factory - Implementation for classroom lazy singleton factory that is extended from the abstract factory 
-3- Student Eager Singleton Factory - Implementation for student lazy singleton factory that is extended from the abstract factory . To create student objects, we utilize a StudentEagerSingletonFactory class and define the getObject method.
+- Abstract Factory Model - Abstract Interface to define set of methods for creating objects
+- Classroom Eager Singleton Factory - Implementation for classroom lazy singleton factory that is extended from the abstract factory 
+- Student Eager Singleton Factory - Implementation for student lazy singleton factory that is extended from the abstract factory . To create student objects, we utilize a StudentEagerSingletonFactory class and define the getObject method.
 
 
 
